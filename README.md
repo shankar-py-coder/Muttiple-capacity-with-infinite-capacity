@@ -57,7 +57,7 @@ print("--------------------------------------------------------------")
 
 
 ## Output :
-![image]
+![Output Screenshot](output.png)
 
 ## Result : 
 

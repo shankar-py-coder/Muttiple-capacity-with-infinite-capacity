@@ -57,7 +57,7 @@ print("--------------------------------------------------------------")
 
 
 ## Output :
-![Output Screenshot](output.png)
+![Output Screenshot](https://github.com/shankar-py-coder/Muttiple-capacity-with-infinite-capacity/blob/main/Screenshot%202026-03-14%20173723.png?raw=true)
 
 ## Result : 
 

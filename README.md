@@ -18,10 +18,14 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 
 ## Experiment:
-
+![image](https://github.com/user-attachments/assets/ff1d030e-9332-4f8d-a1a2-9090270b68a6)
 
 ## Program:
 ```
+Name: Shankar S B
+Reg No: 212225230260
+
+
 import math
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
 ser_time=float(input("Enter the mean  inter service time of Lathe Machine (in secs) :  "))
@@ -60,4 +64,5 @@ print("--------------------------------------------------------------")
 ![Output Screenshot](https://github.com/shankar-py-coder/Muttiple-capacity-with-infinite-capacity/blob/main/Screenshot%202026-03-14%20173723.png?raw=true)
 
 ## Result : 
+Thus the average number of materials in the system and conveyor, waiting time of each material in the system and conveyor is found successfully.
 
